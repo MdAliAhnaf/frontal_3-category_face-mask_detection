@@ -1,4 +1,4 @@
-# frontal_3-category_face-mask_detection
+# Face Mask Detection in Real-Time using transfer learning via Mobilenet_V2
 
 Initially, custom and Kaggle datasets of correctly, improperly, and erroneously donned masks of 9.5k human images were selected and trained using transfer learning via Mobile Net V2.
 With haarcascade_frontalface_alt2.xml, first the frontal face area is detected in real time, and then the model effortlessly recognizes the categories of face mask detection in humans.
